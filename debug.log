@@ -1,0 +1,3 @@
+[1010/192805.702:ERROR:directory_reader_win.cc(43)] FindFirstFile: 系统找不到指定的路径。 (0x3)
+[1011/235721.165:ERROR:directory_reader_win.cc(43)] FindFirstFile: 系统找不到指定的路径。 (0x3)
+[1011/235721.165:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
